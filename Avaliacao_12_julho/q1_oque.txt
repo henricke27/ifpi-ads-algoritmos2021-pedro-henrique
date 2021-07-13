@@ -1,0 +1,11 @@
+﻿A. Pensamento computacional
+	O pensamento computacional é uma ferramenta que possibilita a resolução de problemas de maneira estratégica, inteligênte e eficiênte. Permitindo que tarefas possam ser otimizadas, de modo que o problema fique o mais transparente possível e com menos empecilhos.
+
+B. Algoritimo
+	O algoritmo é uma sequência de etapas lógicas. Eles permitem que um conjunto de tarefas/problemas com características semelhantes possam ser executadas/solucionadas apenas reutilizando um molde pré-estabelecido.
+
+C. Programação
+	A programação é uma ferramenta que possibilita o desenvolvimento de instruções, através de uma linguagem de programação. Permite que um algoritmo possa ser terceirizado para uma máquina.
+
+D. Modularização
+	A modularização com funções é uma forma de organizar e otimizar um código. Através da mudularização, o programa pode ser subdividido em partes, no qual cada uma é responsável por uma funcionalidade específica, porém quando relacionadas entre sí, formam uma unidade de software bem estruturada e desenvolvida.
